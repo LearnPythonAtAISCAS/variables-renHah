@@ -22,11 +22,11 @@ def variables():
     # Use this knowledge to make Hello World only from the definded variables  
     helloWorld = aString + bString
     # Try multiplying aInt by bInt
-    
+    multiply = 
     #Try taking bInt to the power of aInt
-    
+    power =
     # How often does aInt fit in bInt
-   
+   fitInto = 
 
 
     #Ignore for now:
